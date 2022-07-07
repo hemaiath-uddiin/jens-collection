@@ -1,0 +1,39 @@
+[ 
+    { 
+       "id": 1 ,
+        "img": "https://images.pexels.com/photos/2447043/pexels-photo-2447043.jpeg?cs=srgb&dl=pexels-artem-beliaikin-2447043.jpg&fm=jpg" ,
+        "title": "casual Tshirt" ,
+         "des": "If a dog chews shoes whose shoes does he choose?"
+    }, 
+    { 
+        "id": 2 ,
+         "img": "https://images.pexels.com/photos/297933/pexels-photo-297933.jpeg?cs=srgb&dl=pexels-david-bartus-297933.jpg&fm=jpg" ,
+         "title": "Forma Shirt" ,
+          "des": "If a dog chews shoes whose shoes does he choose?"
+     }, 
+     { 
+        "id": 3 ,
+         "img": "https://images.pexels.com/photos/1337477/pexels-photo-1337477.jpeg?cs=srgb&dl=pexels-ajaykumar-narwade-1337477.jpg&fm=jpg" ,
+         "title": "Indian shirt" ,
+          "des": "If a dog chews shoes whose shoes does he choose?"
+     }, 
+     { 
+        "id": 4 ,
+         "img": "https://images.pexels.com/photos/1682699/pexels-photo-1682699.jpeg?cs=srgb&dl=pexels-craig-adderley-1682699.jpg&fm=jpg" ,
+         "title": "jins" ,
+          "des": "If a dog chews shoes whose shoes does he choose?"
+     }, 
+     { 
+          "id": 5 ,
+           "img": "https://images.pexels.com/photos/10538702/pexels-photo-10538702.jpeg?cs=srgb&dl=pexels-erik-schereder-10538702.jpg&fm=jpg" ,
+           "title": "new Shirt" ,
+            "des": "If a dog chews shoes whose shoes does he choose?"
+       }, 
+       { 
+          "id": 6 ,
+           "img": "https://placeimg.com/400/225/arch" ,
+           "title": "new show" ,
+            "des": "If a dog chews shoes whose shoes does he choose?"
+       }
+    
+]

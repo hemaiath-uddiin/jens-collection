@@ -6,7 +6,9 @@ import Navbar from '../Nabvar/Navbar';
 const Home = () => {
     return (
         <div>
-            <Hero></Hero> 
+            <Hero></Hero>  
+  
+              
            
         </div>
     );
